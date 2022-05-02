@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "genius-lyrics-api": "^3.2.0",
+    "googleapis": "^100.0.0",
+    "html-get": "^2.9.14",
+    "node-fetch": "^2.6.7",
+    "youtubei": "^0.0.1-rc.35",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "testing-package",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
